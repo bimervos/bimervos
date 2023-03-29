@@ -6,13 +6,6 @@
 
 ## Data Scientist | Architect 
 
-### 
-Highly motivated Data Scientist with nearly 4 years of experience in data-driven solutions in the project and contracting companies.
-Professional knowledge of Python; adept at monitoring and receiving data from various data streams including SQL and Excel. Experienced
-at creating exploratory data analysis, data preprocessing, feature engineering, a n d predictive supervised and unsupervised data
-modeling. Skilled in Python, Data Cleaning, Data Mining, Statistics, Data Visualization, and Machine Learning Algorithms.
-
-### Reach me out 
 
 
 <!--
